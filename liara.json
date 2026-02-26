@@ -1,8 +1,0 @@
-{
-  "app": "tiz-math-tools",
-  "port": 80,
-  "build": {
-    "location": "iran"
-  },
-  "disks": []
-}
